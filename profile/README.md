@@ -1,6 +1,6 @@
 ## Official Bluebotlaboratories Github
 
-This Github Organisation contains a collection of all open-source Bluebotlaboratories software and information
+This GitHub Organisation contains a collection of all open-source Bluebotlaboratories software and information
 
 
 ## Community
@@ -10,6 +10,6 @@ Feel free to contribute to any one of our repositories by opening `issues` and c
 ## Additional Info
 [Bluebotlaboratories Website](https://www.bluebotlaboratories.com)
 
-Bluebotlaboratories is a technology company focused on creating the resources required for humanity to advance
+Bluebotlaboratories is a technology company focusing on robotics and software utilities
 
 All documentation is in the wiki secion of a repository
