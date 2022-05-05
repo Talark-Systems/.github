@@ -12,4 +12,4 @@ Feel free to contribute to any one of our repositories by opening `issues` and c
 
 Bluebotlaboratories is a technology company focusing on robotics and software utilities
 
-All documentation is in the wiki secion of a repository
+All documentation is in the wiki section of a repository
