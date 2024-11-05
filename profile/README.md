@@ -1,6 +1,6 @@
-## Official Propinquity Systems Github
+## Official Talark Systems Github
 
-This GitHub Organisation contains a collection of all open-source Propinquity software and information
+This GitHub Organisation contains a collection of all open-source Talark Systems software and documentation
 
 
 ## Community
@@ -8,6 +8,4 @@ Feel free to contribute to any one of our repositories by opening `issues` and c
 
 
 ## Additional Info
-[Propinquity Website](https://www.propinquity.systems)
-
-All documentation is in the wiki section of a repository
+[Talark.Systems](https://talark.systems/)
